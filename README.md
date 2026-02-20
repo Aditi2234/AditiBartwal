@@ -13,6 +13,13 @@ Currently focused on strengthening my development skills and creating web develo
 
 ---
 
+## 🌱 Currently Working On
+- Improving DSA & problem solving.
+- Enhancing web development expertise by building responsive and dynamic applications.
+- Learning advanced JavaScript.
+
+---
+
 ## 🔗 Connect With Me
 📧 Email: bartwaladiti05@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/aditi-bartwal-0207072b3/ 
