@@ -10,13 +10,13 @@ Currently focused on strengthening my development skills and creating web develo
 ## 🌱 Currently Working On
 - Improving DSA & problem solving.
 - Enhancing web development expertise by building responsive and dynamic applications.
-- Learning advanced JavaScript.
+- Learning advanced JavaScript and backend development.
 
 ---
 
 ## 🛠️ Skills
 **Languages:** C, C++, Python, Java, SQL   
-**Tools:** Git, GitHub, VS Code, Jupyter 
+**Tools:** Git, GitHub, VS Code, Jupyter, MySQL, Linux
 
 ---
 
